@@ -15,13 +15,14 @@ const GymProgramCard = ({ title, desc }) => (
 );
 
 const styles = css`
-width: 50%;
-max-width: 27%;
+// width: 50%;
+// height: 50%;
+max-width: 15%;
 display: flex;
-text-align: left;
+// text-align: left;
 margin: 30px 0;
 img {
-  margin-right: 30px;
+  // margin-right: 30px;
 }
 .cardInfo {
   display: flex;
